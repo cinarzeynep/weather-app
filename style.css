@@ -1,0 +1,7 @@
+#main-con {
+    height: 80vh;
+    background-image: url(background.png);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: right;
+}
