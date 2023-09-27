@@ -1,0 +1,7 @@
+*.png
+
+node_modules/
+
+.env
+
+*.json
