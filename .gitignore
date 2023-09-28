@@ -1,4 +1,7 @@
 *.png
+!screenshot.png
+!screenshot1.png
+!error.png
 
 node_modules/
 
